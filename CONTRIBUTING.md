@@ -10,9 +10,9 @@ We follow the [GitHub Flow Workflow](https://guides.github.com/introduction/flow
 1. Check out the `master` branch
 1. Create a feature branch
 1. Write code and tests for your change
-1. From your branch, make a pull request against `twitterdev/Sending-a-response-from-the-Twitter-API-to-Google-Sheets/master`
+1. From your branch, make a pull request against `twitterdev/Twitter-API-to-Google-Sheets/master`
 1. Work with repo maintainers to get your change reviewed
-1. Wait for your change to be pulled into `twitterdev/Sending-a-response-from-the-Twitter-API-to-Google-Sheets/master`
+1. Wait for your change to be pulled into `twitterdev/Twitter-API-to-Google-Sheets/master`
 1. Delete your feature branch
 
 ## License
